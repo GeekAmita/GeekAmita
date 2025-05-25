@@ -1,7 +1,7 @@
 ## Hi there, I'm Amita Singh - aka [Geek][github] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Geek_Amita?style=for-the-badge&logo=x&logoColor=%23000000&color=1975D1)][follow_twitter]
-[![GitHub followers](https://img.shields.io/github/followers/GeekAmita?style=for-the-badge&logo=github&logoColor=%23000000&color=%23EF2D5E)][github]
+[![Twitter Follow](https://img.shields.io/twitter/follow/geekamita?style=for-the-badge&logo=x&logoColor=%23000000&color=1975D1)][follow_twitter]
+[![GitHub followers](https://img.shields.io/github/followers/geekamita?style=for-the-badge&logo=github&logoColor=%23000000&color=%23EF2D5E)][github]
 
 ---
 
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 </details>
 <!-- Links -->
 
-[github]: https://github.com/GeekAmita
-[twitter]: https://twitter.com/Geek_Amita
-[follow_twitter]: https://twitter.com/intent/follow?screen_name=Geek_Amita
+[github]: https://github.com/geekamita
+[twitter]: https://twitter.com/geekamita
+[follow_twitter]: https://twitter.com/intent/follow?screen_name=geekamita
 [linkedin]: https://www.linkedin.com/in/geekamita/
 [instagram]: https://www.instagram.com/geek_amita/
